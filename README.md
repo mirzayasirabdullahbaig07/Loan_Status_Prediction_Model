@@ -7,6 +7,9 @@ An **AI-powered web application** built with **Streamlit** that predicts whether
 ## 🚀 Demo
 🔗 [Live App on Streamlit](https://loanstatusprediction07.streamlit.app/)
 
+## 🚀 Video Demo
+[https://github.com/user-attachments/assets/e596b16c-7cc1-4b2c-aba9-b769dd540732](https://github.com/user-attachments/assets/e596b16c-7cc1-4b2c-aba9-b769dd540732)
+
 ---
 
 ## 📌 Features
